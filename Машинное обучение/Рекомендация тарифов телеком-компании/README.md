@@ -8,7 +8,7 @@
 **Задача проекта**: выбрать модель с максимально большим значением *accuracy* (не менее 0.75).
 
 ## Используемые инструменты:
-- Pandas 
+- Pandas;
 - Sklearn (DecisionTreeClassifier, RandomForestClassifier, LogisticRegression, DummyClassifier, accuracy_score)
 
 ## Выводы:
