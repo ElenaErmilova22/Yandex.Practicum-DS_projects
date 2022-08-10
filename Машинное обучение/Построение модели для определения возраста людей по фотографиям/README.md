@@ -14,6 +14,7 @@
 - Pandas; 
 - Keras (ImageDataGenerator, Conv2D, Flatten, Dense, AvgPool2D, Sequential, Adam);
 - ResNet;
+- Numpy;
 - Matplotlib
 
 ## Выводы:
