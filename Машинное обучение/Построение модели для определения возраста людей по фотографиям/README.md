@@ -12,8 +12,7 @@
 
 ## Используемые инструменты:
 - Pandas; 
-- Keras (ImageDataGenerator, Conv2D, Flatten, Dense, AvgPool2D, Sequential, Adam);
-- ResNet;
+- Keras (ImageDataGenerator, Conv2D, Flatten, Dense, AvgPool2D, Sequential, Adam, ResNet50);
 - Numpy;
 - Matplotlib
 
