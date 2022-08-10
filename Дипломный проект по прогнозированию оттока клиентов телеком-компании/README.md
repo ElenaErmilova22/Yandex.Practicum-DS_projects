@@ -18,7 +18,7 @@
 - Numpy;
 - Matplotlib;
 - Seaborn;
-- LightGBM (LGBMClassifier)4
+- LightGBM (LGBMClassifier);
 - DateTime
 
 ## Выводы:
