@@ -4,5 +4,5 @@
 
 ## Список проектов:
 [Линейная алгебра](https://github.com/ElenaErmilova22/Yandex.Practicum-DS_projects/tree/main/Блок%20математики/Защита%20персональных%20данных%20клиентов%20страховой%20компании) / Защита персональных данных клиентов страховой компании \
-[Численные методы](https://github.com/ElenaErmilova22/Yandex.Practicum-DS_projects/tree/main/Блок%20математики/) / Определение рыночной стоимости автомобилей
+[Численные методы](https://github.com/ElenaErmilova22/Yandex.Practicum-DS_projects/tree/main/Блок%20математики/) / Определение рыночной стоимости автомобилей \
 [Временные ряды] (https://github.com/ElenaErmilova22/Yandex.Practicum-DS_projects/tree/main/Блок%20математики/) /
