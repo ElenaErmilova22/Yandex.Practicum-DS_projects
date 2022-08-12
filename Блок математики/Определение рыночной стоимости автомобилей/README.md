@@ -10,7 +10,7 @@
 - Pandas;
 - Matplotlib;
 - Seaborn;
-- Sklearn (RandomForestRegressor, OrdinalEncoder, mean_squared_error);
+- Sklearn (RandomForestRegressor, mean_squared_error);
 - CatBoost (CatBoostRegressor);
 - LightGBM
 
