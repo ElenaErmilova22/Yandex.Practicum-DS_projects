@@ -2,7 +2,7 @@
 
 Практические проекты, выполненные в рамках обучения по специальности Data Scientist при обучении в Яндекс.Практикуме.
 
-## Список проектов:
+## Разделы проектов:
 [Аналитические проекты](https://github.com/ElenaErmilova22/Yandex.Practicum-DS_projects/tree/main/Аналитика) \
 [Проекты по машинному обучению](https://github.com/ElenaErmilova22/Yandex.Practicum-DS_projects/tree/main/Машинное%20обучение) \
 [Проекты с использованием математических методов](https://github.com/ElenaErmilova22/Yandex.Practicum-DS_projects/tree/main/Блок%20математики) \
